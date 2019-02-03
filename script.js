@@ -13,7 +13,7 @@ function f1(){
     var item1 = pass.value
     if(item=="user"&&item1=="password")
      {
-     	window.location.href ="new.html"
+     	window.location.href ="123456.html"
      }
      else{
      	alert("Guessing won't work trust me ...")
