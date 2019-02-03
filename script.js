@@ -11,7 +11,7 @@ function f1(){
 	var item = input.value
     var pass =document.getElementById('pass')
     var item1 = pass.value
-    if(item=="user"&&item1=="password")
+    if(item=="abcde"&&item1=="45678")
      {
      	window.location.href ="123456.html"
      }
