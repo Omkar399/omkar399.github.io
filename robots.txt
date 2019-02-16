@@ -1,5 +1,4 @@
 User-agent: *
-Disallow:/
+Disallow:/659cg.html
 
-User-agent: *
-allow:Googlebot
+
